@@ -1,0 +1,31 @@
+body{
+    background-image: url(pexels-the-lazy-artist-gallery-1254150.jpg);
+    background-size: cover;
+}
+.judul{
+    text-align: center;
+    color: rgb(11, 7, 243);
+    font-weight: bold;
+}
+.container{
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    background-color: rgba(27, 30, 32, 0.575);
+}
+.input1{
+    width:300px;
+    margin-left: 70px;
+    height: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(252, 134, 24);
+}
+.data{
+    padding-left: 10px;
+    font-size: 20px ;
+    font-style: italic;
+    font-weight: bold;
+    color: yellow;
+}
